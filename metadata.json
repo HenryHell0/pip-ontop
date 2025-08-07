@@ -1,0 +1,7 @@
+{
+  "uuid": "pip-ontop@henryh",
+  "name": "PiP Always On Top",
+  "description": "Makes Picture-in-Picture windows always on top.",
+  "shell-version": ["45", "46"],
+  "version": 1
+}
