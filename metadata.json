@@ -3,5 +3,6 @@
   "name": "PiP Always On Top",
   "description": "Makes Picture-in-Picture windows always on top.",
   "shell-version": ["45", "46"],
+  "url": "https://github.com/HenryHell0/pip-ontop",
   "version": 1
 }
